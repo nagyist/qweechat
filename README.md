@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2011-2025 Sébastien Helleu <flashcode@flashtux.org>
+SPDX-FileCopyrightText: 2011-2026 Sébastien Helleu <flashcode@flashtux.org>
 
 SPDX-License-Identifier: GPL-3.0-or-later
 -->
@@ -12,6 +12,11 @@ SPDX-License-Identifier: GPL-3.0-or-later
 QWeeChat is a Qt remote GUI for WeeChat written in Python.
 
 Homepage: https://weechat.org/
+
+> [!IMPORTANT]
+> QWeeChat was just a minimal proof-of-concept of a WeeChat graphical remote client.\
+> It uses the "weechat" relay protocol, which has been superseded by "api" relay.\
+> **This project is archived and should no longer be used!**
 
 ## Features
 
@@ -59,7 +64,7 @@ Options can be changed in file `~/.config/qweechat/qweechat.conf`.
 ## Copyright
 
 <!-- REUSE-IgnoreStart -->
-Copyright © 2011-2025 [Sébastien Helleu](https://github.com/flashcode)
+Copyright © 2011-2026 [Sébastien Helleu](https://github.com/flashcode)
 
 This file is part of QWeeChat, a Qt remote GUI for WeeChat.
 
